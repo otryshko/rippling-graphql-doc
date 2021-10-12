@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrippling_graphql=self.webpackChunkrippling_graphql||[]).push([[7454],{6881:function(l){l.exports=JSON.parse('{"allTagsPath":"/rippling-graphql-doc/blog/tags","slug":"/rippling-graphql-doc/blog/tags/hola","name":"hola","count":1,"permalink":"/rippling-graphql-doc/blog/tags/hola"}')}}]);
